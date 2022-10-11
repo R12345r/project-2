@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+padding: 0;
+
+}
+
+div.first{
+  width:300px;
+  margin:110px auto 0px auto;
+  text-align: center;
+}
+h2{
+  text-align: center;
+  padding: 30px;
+  font-family: 'Alkalami', serif;
+
+}
+div.register{
+ padding: 40px;
+ background-color: aqua;
+ border-radius: 30px;
+box-shadow: 0 0 10px black;
+width:120%;
+}
+form#register{
+  margin: 30px;
+
+}
+label{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 19px;
+  font-style: italic;
+}
+input#name{
+  width: 50%;
+  border: 1px solid green;
+  border-radius: 20px;
+ 
+}
+input#submit{
+  width: 70px;
+  height: 30px;
+  border-style:solid;
+  font-size: 13px;
+  font-variant: initial;
+  background-color: darkkhaki;
+}
+label span h2{
+  text-shadow: blueviolet;
+}
+
